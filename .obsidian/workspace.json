@@ -35,8 +35,7 @@
               "title": "HSC-2FA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,11 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dba9f7f680de3c5",
+  "active": "4cf013c20f58ac7d",
   "lastOpenFiles": [
+    "Notes/OST2/Arch1001/Screenshot 2025-08-12 at 12.12.19 PM.png",
+    "Notes/Infosec Projects/HSC-2FA.md",
     "Notes/OST2/Arch1001/Arch1001.md",
     "Notes/OST2/Arch1001/Pasted image 20250809203021.png",
-    "Notes/Infosec Projects/HSC-2FA.md",
     "Notes/Infosec Projects/Infosec Projects.md",
     "Networking/Packet Sniffing.md",
     "Networking/Neighbor Discovery.md",
