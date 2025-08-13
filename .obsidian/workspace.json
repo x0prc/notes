@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Arch1001/Arch1001.md",
+                "file": "Notes/OST2/Arch1005/Arch1005.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch1001"
+              "title": "Arch1005"
             }
           },
           {
@@ -182,11 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cf013c20f58ac7d",
+  "active": "b60852707a800c77",
   "lastOpenFiles": [
+    "Notes/OST2/Classes.md",
+    "Notes/OST2/Arch1005/Arch1005.md",
+    "Notes/OST2/Arch1001/Arch1001.md",
+    "Notes/OST2/Arch1005",
+    "Notes/OST2/Arch1005.md",
     "Notes/OST2/Arch1001/Screenshot 2025-08-12 at 12.12.19 PM.png",
     "Notes/Infosec Projects/HSC-2FA.md",
-    "Notes/OST2/Arch1001/Arch1001.md",
     "Notes/OST2/Arch1001/Pasted image 20250809203021.png",
     "Notes/Infosec Projects/Infosec Projects.md",
     "Networking/Packet Sniffing.md",
@@ -209,8 +213,6 @@
     "Pentesting/Principles.md",
     "Pentesting/IDOR.md",
     "PS WSA Labs/SQLi/Blind SQLi with conditional responses.md",
-    "PS WSA Labs/CSRF/CSRF where Referer validation depends on header being present.md",
-    "Notes/OST2/Classes.md",
     "main/CS/Notes/Quantitative Finance/Supervised ML",
     "main/CS/Notes/Quantitative Finance",
     "main/CS/Notes",
@@ -225,10 +227,8 @@
     "Notes/5G+ BTP IIITD/photo_2025-06-20 23.12.12.jpeg",
     "Notes/5G+ BTP IIITD/photo_2025-06-20 23.12.01.jpeg",
     "Notes/5G+ BTP IIITD/IMG_5321.mov",
-    "Notes/5G+ BTP IIITD/IMG_5312.jpg",
     "src/site/notes",
     "src/site",
-    "Notes/OST2/Arch1001/CheatSheet_x86-64_Registers.pdf",
-    "Notes/OST2/Arch1001"
+    "Notes/OST2/Arch1001/CheatSheet_x86-64_Registers.pdf"
   ]
 }
