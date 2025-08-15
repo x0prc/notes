@@ -35,8 +35,7 @@
               "title": "HSC-2FA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dba9f7f680de3c5",
+  "active": "b60852707a800c77",
   "lastOpenFiles": [
+    "Notes/OST2/Arch1005/Pasted image 20250814214052.png",
     "Notes/OST2/Arch1005/Arch1005.md",
-    "Pasted image 20250814214052.png",
-    "Notes/OST2/Arch1005/Pasted image 20250814213553.png",
+    "Notes/OST2/Arch1005/Pasted image 20250815215208.png",
     "Notes/Infosec Projects/HSC-2FA.md",
+    "Notes/OST2/Arch1005/Pasted image 20250814213553.png",
     "Notes/OST2/Classes.md",
     "Notes/OST2/Arch1001/Arch1001.md",
     "Notes/OST2/Arch1005",
@@ -225,7 +225,6 @@
     "Notes/5G+ BTP IIITD/photo_2025-06-20 23.14.55.jpeg",
     "Notes/5G+ BTP IIITD/photo_2025-06-20 23.14.53.jpeg",
     "Notes/5G+ BTP IIITD/photo_2025-06-20 23.14.48.jpeg",
-    "Notes/5G+ BTP IIITD/photo_2025-06-20 23.12.19.jpeg",
     "Notes/5G+ BTP IIITD/IMG_5321.mov",
     "src/site/notes",
     "src/site",
