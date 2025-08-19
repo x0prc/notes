@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "3a7e22be08370a40",
@@ -182,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cf013c20f58ac7d",
+  "active": "b60852707a800c77",
   "lastOpenFiles": [
     "Notes/OST2/Arch1005/Pasted image 20250819211537.png",
     "Notes/OST2/Arch1005/Pasted image 20250817184801.png",
