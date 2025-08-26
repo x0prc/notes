@@ -15,6 +15,7 @@ permalink:
 - [x] QREP Custom Assessment Tool
 - [x] RTAS
 - [x] tridrasil
+- [x] HSC-2FA
 # Major
 1. OS
 2. Compiler
@@ -24,30 +25,29 @@ permalink:
 1. [Private LTE](https://www.quantulum.co.uk/blog/private-lte-with-limesdr-and-srsran---part-1-software/)
 2. [Custom Network Switch](https://serd.es/2025/05/08/Switch-project-pt1.html)
 # Software
-1. [[HSC-2FA]]
-2. Smart Contract Auditing
-3. Secure Web App
-4. Firmware Reverse Engineering
-5. Snort IDS
-6. Antivirus With Signatures
-7. Nation-State Malware Analysis
-8. Vuln Scanner
-9. ICS Security
-10. DNS Spoofer
-11. Side Channel Attacks
-12. TLS Mutual Authentication
-13. Advanced Firewall
-14. loT Security Tools
-15. Sophisticated Malware
-16. Anonymous Communication
-17. Custom Cyber Ranges
-18. Malware Obfuscation
-19. Threat Intelligence Honeypots
-20. In-Memory Evasion
-21. Password Cracking GPU Cluster
-22. Linux/Windows Kernel Backdoor
-23. 0-Day Exploit
-24. ARM/X86 Rootkit
-25. [[src/site/notes/MacBook M1 RAM and Flash Storage Chips\|MacBook M1 RAM and Flash Storage Chips]]
-26. DIY Disassembled Laptop Frame Art Retro
-27. PC Pegboard Mega
+1. Smart Contract Auditing
+2. Secure Web App
+3. Firmware Reverse Engineering
+4. Snort IDS
+5. Antivirus With Signatures
+6. Nation-State Malware Analysis
+7. Vuln Scanner
+8. ICS Security
+9. DNS Spoofer
+10. Side Channel Attacks
+11. TLS Mutual Authentication
+12. Advanced Firewall
+13. loT Security Tools
+14. Sophisticated Malware
+15. Anonymous Communication
+16. Custom Cyber Ranges
+17. Malware Obfuscation
+18. Threat Intelligence Honeypots
+19. In-Memory Evasion
+20. Password Cracking GPU Cluster
+21. Linux/Windows Kernel Backdoor
+22. 0-Day Exploit
+23. ARM/X86 Rootkit
+24. [[src/site/notes/MacBook M1 RAM and Flash Storage Chips\|MacBook M1 RAM and Flash Storage Chips]]
+25. DIY Disassembled Laptop Frame Art Retro
+26. PC Pegboard Mega
