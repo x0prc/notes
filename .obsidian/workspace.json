@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Classes.md",
+                "file": "Notes/OST2/Arch1005/Arch1005.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Arch1005"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8d74dd66ecc797b",
+  "active": "4cf013c20f58ac7d",
   "lastOpenFiles": [
+    "Notes/OST2/Arch1005/Pasted image 20250827191921.png",
+    "Notes/OST2/Classes.md",
     "Notes/OST2/Arch1005/Arch1005.md",
     "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/OST2/Arch1005/Pasted image 20250826174204.png",
@@ -183,7 +185,6 @@
     "Notes/OST2/Arch1005/Pasted image 20250814214052.png",
     "Notes/OST2/Arch1005/Pasted image 20250815215208.png",
     "Notes/OST2/Arch1005/Pasted image 20250814213553.png",
-    "Notes/OST2/Classes.md",
     "Notes/OST2/Arch1001/Arch1001.md",
     "Notes/OST2/Arch1005",
     "Notes/OST2/Arch1005.md",
