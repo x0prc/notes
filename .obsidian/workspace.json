@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Arch1005/Arch1005.md",
+                "file": "Notes/OST2/Dbg1011/Dbg1011.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch1005"
+              "title": "Dbg1011"
             }
           }
         ]
@@ -171,11 +171,14 @@
   },
   "active": "e8d74dd66ecc797b",
   "lastOpenFiles": [
-    "tst.md",
     "Notes/OST2/Arch1005/Arch1005.md",
+    "Notes/OST2/Dbg1011/Dbg1011.md",
+    "Notes/OST2/Dbg1011",
+    "Notes/OST2/Dbg1011.md",
+    "Notes/OST2/Classes.md",
+    "tst.md",
     "Notes/OST2/Arch1005/Screenshot 2025-08-28 at 11.26.58 AM.png",
     "Notes/OST2/Arch1005/Pasted image 20250827191921.png",
-    "Notes/OST2/Classes.md",
     "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/OST2/Arch1005/Pasted image 20250826174204.png",
     "obs-base.base",
@@ -207,15 +210,12 @@
     "Pentesting/nmap/nmap.md",
     "Pentesting/Protocols & Servers/Protocols & Servers.md",
     "Pentesting/SQLi.md",
-    "Pentesting/Principles.md",
-    "Pentesting/IDOR.md",
     "main/CS/Notes/Quantitative Finance/Supervised ML",
     "main/CS/Notes/Quantitative Finance",
     "main/CS/Notes",
     "main/CS",
     "main",
     "Notes/5G+ BTP IIITD/IMG_5321.mov",
-    "src/site/notes",
-    "src/site"
+    "src/site/notes"
   ]
 }
