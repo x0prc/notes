@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Infosec Projects/Infosec Projects.md",
+                "file": "Notes/Infosec Projects/ASFContracts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infosec Projects"
+              "title": "ASFContracts"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "e8d74dd66ecc797b",
   "lastOpenFiles": [
+    "Notes/Infosec Projects/ASFContracts.md",
+    "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/OST2/Dbg1011/Dbg1011.md",
     "Notes/OST2/Classes.md",
     "Notes/OST2/Arch1005/Arch1005.md",
@@ -179,7 +181,6 @@
     "tst.md",
     "Notes/OST2/Arch1005/Screenshot 2025-08-28 at 11.26.58 AM.png",
     "Notes/OST2/Arch1005/Pasted image 20250827191921.png",
-    "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/OST2/Arch1005/Pasted image 20250826174204.png",
     "obs-base.base",
     "Notes/OST2/Arch1005/Screenshot 2025-08-25 at 12.22.01 PM.png",
@@ -209,7 +210,6 @@
     "Pentesting/File Inclusion/File Inclusion.md",
     "Pentesting/nmap/nmap.md",
     "Pentesting/Protocols & Servers/Protocols & Servers.md",
-    "Pentesting/SQLi.md",
     "main/CS/Notes/Quantitative Finance/Supervised ML",
     "main/CS/Notes/Quantitative Finance",
     "main/CS/Notes",

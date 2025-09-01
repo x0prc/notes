@@ -25,7 +25,7 @@ permalink:
 1. [Private LTE](https://www.quantulum.co.uk/blog/private-lte-with-limesdr-and-srsran---part-1-software/)
 2. [Custom Network Switch](https://serd.es/2025/05/08/Switch-project-pt1.html)
 # Software
-1. Smart Contract Auditing
+1. [[ASFContracts]]
 2. Secure Web App
 3. Firmware Reverse Engineering
 4. Snort IDS
