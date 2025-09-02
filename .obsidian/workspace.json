@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Infosec Projects/ASFContracts.md",
+                "file": "Notes/OST2/Dbg2011/Dbg2011.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASFContracts"
+              "title": "Dbg2011"
             }
           }
         ]
@@ -171,10 +171,12 @@
   },
   "active": "e8d74dd66ecc797b",
   "lastOpenFiles": [
+    "Notes/OST2/Classes.md",
+    "Notes/OST2/Dbg2011/Dbg2011.md",
+    "Notes/OST2/Dbg1011/Dbg1011.md",
+    "Notes/OST2/Dbg2011",
     "Notes/Infosec Projects/ASFContracts.md",
     "Notes/Infosec Projects/Infosec Projects.md",
-    "Notes/OST2/Dbg1011/Dbg1011.md",
-    "Notes/OST2/Classes.md",
     "Notes/OST2/Arch1005/Arch1005.md",
     "Notes/OST2/Dbg1011",
     "Notes/OST2/Dbg1011.md",
@@ -209,13 +211,11 @@
     "Red Teaming/Bypassing UAC.md",
     "Pentesting/File Inclusion/File Inclusion.md",
     "Pentesting/nmap/nmap.md",
-    "Pentesting/Protocols & Servers/Protocols & Servers.md",
     "main/CS/Notes/Quantitative Finance/Supervised ML",
     "main/CS/Notes/Quantitative Finance",
     "main/CS/Notes",
     "main/CS",
     "main",
-    "Notes/5G+ BTP IIITD/IMG_5321.mov",
-    "src/site/notes"
+    "Notes/5G+ BTP IIITD/IMG_5321.mov"
   ]
 }
