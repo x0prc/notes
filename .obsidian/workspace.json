@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Dbg2011/Dbg2011.md",
+                "file": "Notes/OST2/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dbg2011"
+              "title": "Classes"
             }
           }
         ]
@@ -171,7 +171,9 @@
   },
   "active": "e8d74dd66ecc797b",
   "lastOpenFiles": [
+    "Notes/OST2/Dbg3011/Dbg3011.md",
     "Notes/OST2/Classes.md",
+    "Notes/OST2/Dbg3011",
     "Notes/OST2/Dbg2011/Dbg2011.md",
     "Notes/OST2/Dbg1011/Dbg1011.md",
     "Notes/OST2/Dbg2011",
@@ -210,12 +212,10 @@
     "Red Teaming/IDS-IPS.md",
     "Red Teaming/Bypassing UAC.md",
     "Pentesting/File Inclusion/File Inclusion.md",
-    "Pentesting/nmap/nmap.md",
     "main/CS/Notes/Quantitative Finance/Supervised ML",
     "main/CS/Notes/Quantitative Finance",
     "main/CS/Notes",
     "main/CS",
-    "main",
-    "Notes/5G+ BTP IIITD/IMG_5321.mov"
+    "main"
   ]
 }
