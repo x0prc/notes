@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Classes.md",
+                "file": "Notes/OST2/Dbg3011/Dbg3011.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Dbg3011"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "e8d74dd66ecc797b",
   "lastOpenFiles": [
-    "Notes/OST2/Dbg3011/Dbg3011.md",
     "Notes/OST2/Classes.md",
+    "Notes/OST2/Dbg3011/Dbg3011.md",
     "Notes/OST2/Dbg3011",
     "Notes/OST2/Dbg2011/Dbg2011.md",
     "Notes/OST2/Dbg1011/Dbg1011.md",
