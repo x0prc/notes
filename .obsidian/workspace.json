@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Classes.md",
+                "file": "Notes/OST2/Arch2001/Arch2001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Arch2001"
             }
           }
         ]
@@ -169,11 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8d74dd66ecc797b",
+  "active": "4cf013c20f58ac7d",
   "lastOpenFiles": [
+    "Notes/OST2/Arch2001/Pasted image 20250911183953.png",
+    "Notes/OST2/Classes.md",
+    "Notes/OST2/Arch2001/Arch2001.md",
+    "Notes/OST2/Arch2001",
     "Notes/OST2/Dbg1012/Dbg1012.md",
     "Notes/OST2/Dbg2011/Dbg2011.md",
-    "Notes/OST2/Classes.md",
     "Notes/OST2/Dbg1012",
     "Notes/OST2/Dbg1011/Dbg1011.md",
     "Notes/OST2/Dbg2011",
@@ -210,12 +213,9 @@
     "Security Operations Center/Core Windows Processes.md",
     "Red Teaming/Obfuscation Principles.md",
     "Red Teaming/IDS-IPS.md",
-    "Red Teaming/Bypassing UAC.md",
-    "Pentesting/File Inclusion/File Inclusion.md",
     "main/CS/Notes/Quantitative Finance/Supervised ML",
     "main/CS/Notes/Quantitative Finance",
     "main/CS/Notes",
-    "main/CS",
-    "main"
+    "main/CS"
   ]
 }
