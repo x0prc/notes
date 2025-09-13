@@ -171,6 +171,7 @@
   },
   "active": "876407ff01eb006c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/PS WSA Labs/SQLi/Querying the database type and version on MySQL and Microsoft.md",
     "PS WSA Labs/SQLi/SQLi.md",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/PS WSA Labs/SQLi",
@@ -185,6 +186,9 @@
     "src/site/notes/src/site/notes/src",
     "Notes/OST2/Dbg2011/Dbg2011.md",
     "Notes/OST2/Arch2001/Arch2001.md",
+=======
+    "Notes/OST2/Arch2001/Pasted image 20250913201528.png",
+>>>>>>> c54c2ad1babb1f64f1f1a46c07e5d42a35efd26b
     "Notes/OST2/Arch2001/Pasted image 20250912220115.png",
     "Notes/OST2/Arch2001/Pasted image 20250911183953.png",
     "Notes/OST2/Classes.md",
