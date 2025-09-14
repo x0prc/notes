@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c733c2c361500db8",
+    "id": "e41c36eb8d874ba9",
     "type": "split",
     "children": [
       {
-        "id": "d507b9ad9ca55de0",
+        "id": "648add13514f7f19",
         "type": "tabs",
         "children": [
           {
-            "id": "876407ff01eb006c",
+            "id": "be6374c9409ca3a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts/10-C.md",
-                "mode": "preview",
+                "file": "Notes/OST2/Arch2001/Arch2001.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-C"
+              "title": "Arch2001"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "375b086f9f9be19b",
+    "id": "6acd9e50e1265c50",
     "type": "split",
     "children": [
       {
-        "id": "0576c8bd6a9a97b5",
+        "id": "3f632871ae3b12c9",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf013c20f58ac7d",
+            "id": "f990fc0559f124f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "1d39e5c3165fb725",
+            "id": "b3422040400ff27c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "ee90efc6ac848011",
+            "id": "bca4ed58c82a3408",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 300
   },
   "right": {
-    "id": "3a7e22be08370a40",
+    "id": "deb0943eb2b0d347",
     "type": "split",
     "children": [
       {
-        "id": "ddcd0a8a369eebc4",
+        "id": "575e1aff2d6a38c6",
         "type": "tabs",
         "children": [
           {
-            "id": "64e646184d900335",
+            "id": "273551b5389170e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/site/notes/src/site/notes/src/site/notes/main/CS/CS.md",
+                "file": "Notes/OST2/Arch2001/Arch2001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CS"
+              "title": "Backlinks for Arch2001"
             }
           },
           {
-            "id": "903e3ae299b64f40",
+            "id": "f096935b5306a9f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/site/notes/src/site/notes/src/site/notes/main/CS/CS.md",
+                "file": "Notes/OST2/Arch2001/Arch2001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CS"
+              "title": "Outgoing links from Arch2001"
             }
           },
           {
-            "id": "f055f7c8339b71c4",
+            "id": "80df752dadaf9d9a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "40ddfa6df07606fc",
+            "id": "10aa18acdb4aa032",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/site/notes/src/site/notes/src/site/notes/main/CS/CS.md",
+                "file": "Notes/OST2/Arch2001/Arch2001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CS"
+              "title": "Outline of Arch2001"
             }
           }
         ]
@@ -160,66 +160,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "876407ff01eb006c",
+  "active": "be6374c9409ca3a3",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/PS WSA Labs/SQLi/Querying the database type and version on MySQL and Microsoft.md",
-    "PS WSA Labs/SQLi/SQLi.md",
-    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/PS WSA Labs/SQLi",
-    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/PS WSA Labs",
-    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS",
-    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main",
-    "src/site/notes/src/site/notes/src/site/notes/src/site/notes",
-    "src/site/notes/src/site/notes/src/site/notes/src/site",
-    "src/site/notes/src/site/notes/src/site/notes/src",
-    "src/site/notes/src/site/notes/src/site/notes",
-    "src/site/notes/src/site/notes/src/site",
-    "src/site/notes/src/site/notes/src",
+    "Pasted image 20250914175348.png",
+    "Notes/OST2/Arch2001/Pasted image 20250914174921.png",
     "Notes/OST2/Dbg2011/Dbg2011.md",
-    "Notes/OST2/Arch2001/Arch2001.md",
-=======
-    "Notes/OST2/Arch2001/Pasted image 20250913201528.png",
->>>>>>> c54c2ad1babb1f64f1f1a46c07e5d42a35efd26b
-    "Notes/OST2/Arch2001/Pasted image 20250912220115.png",
-    "Notes/OST2/Arch2001/Pasted image 20250911183953.png",
-    "Notes/OST2/Classes.md",
-    "Notes/OST2/Dbg1012/Dbg1012.md",
-    "Notes/OST2/Dbg1011/Dbg1011.md",
-    "Notes/Infosec Projects/ASFContracts.md",
-    "Notes/Infosec Projects/Infosec Projects.md",
-    "Notes/OST2/Arch1005/Arch1005.md",
-    "Notes/OST2/Dbg1011.md",
-    "tst.md",
-    "Notes/OST2/Arch1005/Screenshot 2025-08-28 at 11.26.58 AM.png",
-    "Notes/OST2/Arch1005/Pasted image 20250827191921.png",
-    "Notes/OST2/Arch1005/Pasted image 20250826174204.png",
-    "Notes/OST2/Arch1005/Screenshot 2025-08-25 at 12.22.01 PM.png",
-    "Notes/OST2/Arch1005/Pasted image 20250819211537.png",
-    "Notes/OST2/Arch1005/Pasted image 20250817184801.png",
-    "Notes/OST2/Arch1005/Pasted image 20250816183423.png",
-    "Notes/Infosec Projects/HSC-2FA.md",
-    "Notes/OST2/Arch1005/Pasted image 20250814214052.png",
-    "Notes/OST2/Arch1001/Arch1001.md",
-    "Notes/OST2/Arch1005.md",
-    "Networking/Packet Sniffing.md",
-    "Networking/Neighbor Discovery.md",
-    "Networking/Logical Ports.md",
-    "Networking/Fragments and MTU.md",
-    "Notes/ERB Template.md",
-    "Notes/Certifications Prep.md",
-    "Security Operations Center/Yara/Yara.md",
-    "Security Operations Center/Snort/Snort.md",
-    "Security Operations Center/Security Operations Center.md",
-    "Security Operations Center/Core Windows Processes.md",
-    "Red Teaming/Obfuscation Principles.md"
+    "Thoughts/10-C.md"
   ]
 }
