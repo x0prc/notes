@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/OST2/Arch2001/Arch2001.md",
+                "file": "Thoughts/10-C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arch2001"
+              "title": "Backlinks for 10-C"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/OST2/Arch2001/Arch2001.md",
+                "file": "Thoughts/10-C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arch2001"
+              "title": "Outgoing links from 10-C"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/OST2/Arch2001/Arch2001.md",
+                "file": "Thoughts/10-C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arch2001"
+              "title": "Outline of 10-C"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "be6374c9409ca3a3",
   "lastOpenFiles": [
+    "Thoughts/10-C.md",
+    "Notes/OST2/Arch2001/Arch2001.md",
     "Pasted image 20250914175348.png",
     "Notes/OST2/Arch2001/Pasted image 20250914174921.png",
-    "Notes/OST2/Dbg2011/Dbg2011.md",
-    "Thoughts/10-C.md"
+    "Notes/OST2/Dbg2011/Dbg2011.md"
   ]
 }
