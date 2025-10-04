@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Classes.md",
+                "file": "Notes/Infosec Projects/Infosec Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Infosec Projects"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 452.5
   },
   "right": {
     "id": "deb0943eb2b0d347",
@@ -171,14 +171,16 @@
   },
   "active": "be6374c9409ca3a3",
   "lastOpenFiles": [
+    "Notes/OST2/Dbg1012/Dbg1012.md",
+    "Notes/OST2/Dbg2011/Dbg2011.md",
+    "Notes/OST2/Classes.md",
+    "Notes/OST2/Dbg1011/Pasted image 20250922213228.png",
     "Notes/OST2/Arch2001/Arch2001.md",
-    "Pasted image 20250922213228.png",
     "Notes/OST2/Arch2001/Pasted image 20250921164327.png",
     "Notes/OST2/Arch2001/Pasted image 20250914175348.png",
     "Notes/OST2/Arch2001/Pasted image 20250919213428.png",
     "Notes/OST2/Arch2001/Pasted image 20250918184930.png",
     "Thoughts/10-C.md",
-    "Notes/OST2/Arch2001/Pasted image 20250914174921.png",
-    "Notes/OST2/Dbg2011/Dbg2011.md"
+    "Notes/OST2/Arch2001/Pasted image 20250914174921.png"
   ]
 }
