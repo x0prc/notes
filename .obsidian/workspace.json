@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Infosec Projects/Infosec Projects.md",
+                "file": "Pentesting/IDOR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infosec Projects"
+              "title": "IDOR"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 261.5
   },
   "right": {
     "id": "deb0943eb2b0d347",
@@ -171,6 +171,25 @@
   },
   "active": "be6374c9409ca3a3",
   "lastOpenFiles": [
+    "Pentesting/Principles.md",
+    "Pentesting/XSS.md",
+    "Pentesting/SSRF.md",
+    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon/Recon.md",
+    "Pentesting/Pentesting.md",
+    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon",
+    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting",
+    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS",
+    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main",
+    "src/site/notes/src/site/notes/src/site/notes/src/site/notes",
+    "src/site/notes/src/site/notes/src/site/notes/src/site",
+    "src/site/notes/src/site/notes/src/site/notes/src",
+    "src/site/notes/src/site/notes/src/site/notes",
+    "src/site/notes/src/site/notes/src/site",
+    "src/site/notes/src/site/notes/src",
+    "Pentesting/File Inclusion/File Inclusion.md",
+    "Pentesting/nmap/nmap.md",
+    "main/CS/Pentesting/Metasploit.md",
+    "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/OST2/Dbg1012/Dbg1012.md",
     "Notes/OST2/Dbg2011/Dbg2011.md",
     "Notes/OST2/Classes.md",
