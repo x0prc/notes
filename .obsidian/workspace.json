@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/IDOR.md",
+                "file": "adAPIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDOR"
+              "title": "adAPIs"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "be6374c9409ca3a3",
   "lastOpenFiles": [
+    "Notes/Infosec Projects/Infosec Projects.md",
+    "adAPIs.md",
+    "Pentesting/IDOR.md",
     "Pentesting/Principles.md",
     "Pentesting/XSS.md",
     "Pentesting/SSRF.md",
@@ -189,7 +192,6 @@
     "Pentesting/File Inclusion/File Inclusion.md",
     "Pentesting/nmap/nmap.md",
     "main/CS/Pentesting/Metasploit.md",
-    "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/OST2/Dbg1012/Dbg1012.md",
     "Notes/OST2/Dbg2011/Dbg2011.md",
     "Notes/OST2/Classes.md",
