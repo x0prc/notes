@@ -17,6 +17,7 @@ permalink:
 - [x] tridrasil
 - [x] HSC-2FA
 - [x] ASFContracts
+- [x] adAPIs
 # Major
 1. OS
 2. Compiler
@@ -26,28 +27,27 @@ permalink:
 1. [Private LTE](https://www.quantulum.co.uk/blog/private-lte-with-limesdr-and-srsran---part-1-software/)
 2. [Custom Network Switch](https://serd.es/2025/05/08/Switch-project-pt1.html)
 # Software
-1. [[adAPIs]]
-2. Firmware Reverse Engineering
-3. Snort IDS
-4. Antivirus With Signatures
-5. Nation-State Malware Analysis
-6. Vuln Scanner
-7. ICS Security
-8. DNS Spoofer
-9. Side Channel Attacks
-10. TLS Mutual Authentication
-11. Advanced Firewall
-12. loT Security Tools
-13. Sophisticated Malware
-14. Anonymous Communication
-15. Custom Cyber Ranges
-16. Malware Obfuscation
-17. Threat Intelligence Honeypots
-18. In-Memory Evasion
-19. Password Cracking GPU Cluster
-20. Linux/Windows Kernel Backdoor
-21. 0-Day Exploit
-22. ARM/X86 Rootkit
-23. [[src/site/notes/MacBook M1 RAM and Flash Storage Chips\|MacBook M1 RAM and Flash Storage Chips]]
-24. DIY Disassembled Laptop Frame Art Retro
-25. PC Pegboard Mega
+1. Firmware Reverse Engineering
+2. Snort IDS
+3. Antivirus With Signatures
+4. Nation-State Malware Analysis
+5. Vuln Scanner
+6. ICS Security
+7. DNS Spoofer
+8. Side Channel Attacks
+9. TLS Mutual Authentication
+10. Advanced Firewall
+11. loT Security Tools
+12. Sophisticated Malware
+13. Anonymous Communication
+14. Custom Cyber Ranges
+15. Malware Obfuscation
+16. Threat Intelligence Honeypots
+17. In-Memory Evasion
+18. Password Cracking GPU Cluster
+19. Linux/Windows Kernel Backdoor
+20. 0-Day Exploit
+21. ARM/X86 Rootkit
+22. [[src/site/notes/MacBook M1 RAM and Flash Storage Chips\|MacBook M1 RAM and Flash Storage Chips]]
+23. DIY Disassembled Laptop Frame Art Retro
+24. PC Pegboard Mega
