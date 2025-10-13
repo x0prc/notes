@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/ps-wsa-labs/csrf/same-site-lax-bypass-via-cookie-refresh/"}
+dg-publish: true
 ---
 
 

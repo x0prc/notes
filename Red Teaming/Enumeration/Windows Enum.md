@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/red-teaming/enumeration/windows-enum/"}
+dg-publish: true
 ---
 
 

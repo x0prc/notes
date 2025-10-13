@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/red-teaming/windows-internals/"}
+dg-publish: true
 ---
 
 

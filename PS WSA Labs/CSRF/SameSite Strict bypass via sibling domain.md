@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/ps-wsa-labs/csrf/same-site-strict-bypass-via-sibling-domain/"}
+dg-publish: true
 ---
-
-
-
-
-
 
 ### **Study the live chat feature**
 

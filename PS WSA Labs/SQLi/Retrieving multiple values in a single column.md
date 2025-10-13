@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/ps-wsa-labs/sq-li/retrieving-multiple-values-in-a-single-column/"}
+dg-publish: true
 ---
 
 

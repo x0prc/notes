@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/red-teaming/red-teaming/"}
+dg-publish: true
 ---
-
-
-
-
 
 
 [[src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Red Teaming/Enumeration/Enumeration\|Enumeration]]

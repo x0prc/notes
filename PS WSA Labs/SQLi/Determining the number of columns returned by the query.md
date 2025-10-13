@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/ps-wsa-labs/sq-li/determining-the-number-of-columns-returned-by-the-query/"}
+dg-publish: true
 ---
 
 

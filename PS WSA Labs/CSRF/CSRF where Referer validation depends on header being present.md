@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/ps-wsa-labs/csrf/csrf-where-referer-validation-depends-on-header-being-present/"}
+dg-publish: true
 ---
 
 

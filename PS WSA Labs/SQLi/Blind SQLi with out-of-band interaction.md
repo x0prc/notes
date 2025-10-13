@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/cs/ps-wsa-labs/sq-li/blind-sq-li-with-out-of-band-interaction/"}
+dg-publish: true
 ---
 
 

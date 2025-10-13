@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Infosec Projects/Infosec Projects.md",
+                "file": "Security Operations Center/sysmon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infosec Projects"
+              "title": "sysmon"
             }
           }
         ]
@@ -171,14 +171,32 @@
   },
   "active": "be6374c9409ca3a3",
   "lastOpenFiles": [
-    "adAPIs.md",
-    "Notes/Infosec Projects/Infosec Projects.md",
-    "Pentesting/IDOR.md",
-    "Pentesting/Principles.md",
-    "Pentesting/XSS.md",
-    "Pentesting/SSRF.md",
-    "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon/Recon.md",
-    "Pentesting/Pentesting.md",
+    "Security Operations Center/sysinternals.md",
+    "Security Operations Center/Splunk.md",
+    "Security Operations Center/Security Operations Center.md",
+    "Security Operations Center/osquery.md",
+    "Security Operations Center/Core Windows Processes.md",
+    "Security Operations Center/Brim.md",
+    "Security Operations Center/Zeek/Zeek.md",
+    "Security Operations Center/Yara/Yara.md",
+    "Security Operations Center/Snort/Snort.md",
+    "Security Operations Center/ELK 101/ELK 101.md",
+    "Red Teaming/Windows Internals.md",
+    "Red Teaming/Win32 API.md",
+    "Red Teaming/Signature Evasion.md",
+    "Red Teaming/Red Teaming.md",
+    "Red Teaming/Obfuscation Principles.md",
+    "Red Teaming/Local Persistance.md",
+    "Red Teaming/IDS-IPS.md",
+    "Red Teaming/Firewalls.md",
+    "Red Teaming/Bypassing UAC.md",
+    "Red Teaming/AV Evasion.md",
+    "Red Teaming/Runtime Detection/Runtime Detection.md",
+    "Red Teaming/Lateral Movement & Pivoting/Lateral Movement & Pivoting.md",
+    "Red Teaming/Enumeration/Windows Enum.md",
+    "Red Teaming/Enumeration/Enumeration.md",
+    "PS WSA Labs/PS WSA Labs.md",
+    "PS WSA Labs/SQLi/Vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS",
@@ -189,19 +207,11 @@
     "src/site/notes/src/site/notes/src/site/notes",
     "src/site/notes/src/site/notes/src/site",
     "src/site/notes/src/site/notes/src",
-    "Pentesting/File Inclusion/File Inclusion.md",
-    "Pentesting/nmap/nmap.md",
-    "main/CS/Pentesting/Metasploit.md",
-    "Notes/OST2/Dbg1012/Dbg1012.md",
-    "Notes/OST2/Dbg2011/Dbg2011.md",
-    "Notes/OST2/Classes.md",
     "Notes/OST2/Dbg1011/Pasted image 20250922213228.png",
-    "Notes/OST2/Arch2001/Arch2001.md",
     "Notes/OST2/Arch2001/Pasted image 20250921164327.png",
     "Notes/OST2/Arch2001/Pasted image 20250914175348.png",
     "Notes/OST2/Arch2001/Pasted image 20250919213428.png",
     "Notes/OST2/Arch2001/Pasted image 20250918184930.png",
-    "Thoughts/10-C.md",
     "Notes/OST2/Arch2001/Pasted image 20250914174921.png"
   ]
 }
