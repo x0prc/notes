@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink:
 ---
 
 - [x] Home Lab Setup

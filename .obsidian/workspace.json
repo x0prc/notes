@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Operations Center/sysmon.md",
+                "file": "Notes/Infosec Projects/Infosec Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sysmon"
+              "title": "Infosec Projects"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "be6374c9409ca3a3",
   "lastOpenFiles": [
+    "README.md",
+    "Security Operations Center/sysmon.md",
     "Security Operations Center/sysinternals.md",
     "Security Operations Center/Splunk.md",
     "Security Operations Center/Security Operations Center.md",
@@ -195,8 +197,6 @@
     "Red Teaming/Lateral Movement & Pivoting/Lateral Movement & Pivoting.md",
     "Red Teaming/Enumeration/Windows Enum.md",
     "Red Teaming/Enumeration/Enumeration.md",
-    "PS WSA Labs/PS WSA Labs.md",
-    "PS WSA Labs/SQLi/Vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS",
