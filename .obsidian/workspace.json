@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Infosec Projects/Infosec Projects.md",
+                "file": "Notes/OST2/Dbg3301/Dbg3301.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infosec Projects"
+              "title": "Dbg3301"
             }
           }
         ]
@@ -169,8 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "be6374c9409ca3a3",
+  "active": "f990fc0559f124f0",
   "lastOpenFiles": [
+    "Notes/OST2/Dbg3301/Pasted image 20251016225213.png",
+    "Notes/OST2/Dbg3301/Pasted image 20251016225111.png",
+    "Notes/OST2/Classes.md",
+    "Notes/OST2/Dbg3301/Dbg3301.md",
+    "Notes/OST2/Dbg3301",
+    "Notes/Infosec Projects/Infosec Projects.md",
     "README.md",
     "Security Operations Center/sysmon.md",
     "Security Operations Center/sysinternals.md",
@@ -193,10 +199,6 @@
     "Red Teaming/Firewalls.md",
     "Red Teaming/Bypassing UAC.md",
     "Red Teaming/AV Evasion.md",
-    "Red Teaming/Runtime Detection/Runtime Detection.md",
-    "Red Teaming/Lateral Movement & Pivoting/Lateral Movement & Pivoting.md",
-    "Red Teaming/Enumeration/Windows Enum.md",
-    "Red Teaming/Enumeration/Enumeration.md",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS",
@@ -206,7 +208,6 @@
     "src/site/notes/src/site/notes/src/site/notes/src",
     "src/site/notes/src/site/notes/src/site/notes",
     "src/site/notes/src/site/notes/src/site",
-    "src/site/notes/src/site/notes/src",
     "Notes/OST2/Dbg1011/Pasted image 20250922213228.png",
     "Notes/OST2/Arch2001/Pasted image 20250921164327.png",
     "Notes/OST2/Arch2001/Pasted image 20250914175348.png",
