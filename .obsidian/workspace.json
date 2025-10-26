@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "648add13514f7f19",
+        "id": "6ccfeeee252c8a63",
         "type": "tabs",
         "children": [
           {
-            "id": "be6374c9409ca3a3",
+            "id": "23658ba14f2fddd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,11 +171,15 @@
   },
   "active": "f990fc0559f124f0",
   "lastOpenFiles": [
+    "Notes/OST2/Dbg3301/Pasted image 20251026223419.png",
+    "Notes/r-cybersecurity.md",
+    "Notes/THM Career Pathway.md",
+    "Notes/OST2/Dbg3301/Dbg3301.md",
+    "Notes/ERB Template.md",
     "Notes/OST2/Dbg3301/Pasted image 20251022194437.png",
     "Notes/OST2/Dbg3301/Pasted image 20251016225213.png",
     "Notes/OST2/Dbg3301/Pasted image 20251016225111.png",
     "Notes/OST2/Classes.md",
-    "Notes/OST2/Dbg3301/Dbg3301.md",
     "Notes/OST2/Dbg3301",
     "Notes/Infosec Projects/Infosec Projects.md",
     "README.md",
@@ -197,9 +201,6 @@
     "Red Teaming/Obfuscation Principles.md",
     "Red Teaming/Local Persistance.md",
     "Red Teaming/IDS-IPS.md",
-    "Red Teaming/Firewalls.md",
-    "Red Teaming/Bypassing UAC.md",
-    "Red Teaming/AV Evasion.md",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS",
