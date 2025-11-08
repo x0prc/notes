@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Dbg3301/Dbg3301.md",
+                "file": "Notes/OST2/Arch2821/Arch2821.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dbg3301"
+              "title": "Arch2821"
             }
           }
         ]
@@ -169,41 +169,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "f990fc0559f124f0",
+  "active": "23658ba14f2fddd5",
   "lastOpenFiles": [
-    "Notes/OST2/Dbg3301/Pasted image 20251106222841.png",
     "Notes/OST2/Classes.md",
-    "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/OST2/Dbg3301/Dbg3301.md",
+    "Notes/OST2/Arch2821/Arch2821.md",
+    "Notes/OST2/Arch2821",
+    "Notes/r-cybersecurity.md",
+    "README.md",
+    "Notes/THM Career Pathway.md",
+    "Notes/SANS Defensive Training.md",
+    "Notes/Journals.md",
+    "OWASP - MASTG/Local Authentication/Local Authentication.md",
+    "OWASP - MASTG/iOS Data Storage.md",
+    "OWASP - MASTG/Network Communication.md",
+    "OWASP - MASTG/OWASP - MASTG.md",
+    "OWASP - MASTG/Cryptographic APIs.md",
+    "OWASP - MASTG/Code Quality & Build Settings.md",
+    "OWASP - MASTG/App Network Communications.md",
+    "OWASP - MASTG/Anti-Reversing Defences.md",
+    "OWASP - MASTG/iOS Platform Overview/iOS Platform Overview.md",
+    "OWASP - MASTG/Architectures/Stateless Auth.md",
+    "OWASP - MASTG/Architectures/Architectures.md",
+    "Notes/Infosec Projects/Infosec Projects.md",
+    "Notes/OST2/Dbg3301/Pasted image 20251106222841.png",
     "Notes/OST2/Dbg3301/Pasted image 20251103191352.png",
     "Notes/OST2/Dbg3301/Pasted image 20251031194324.png",
     "Notes/OST2/Dbg3301/Pasted image 20251026223419.png",
-    "Notes/r-cybersecurity.md",
-    "Notes/THM Career Pathway.md",
     "Notes/ERB Template.md",
     "Notes/OST2/Dbg3301/Pasted image 20251022194437.png",
     "Notes/OST2/Dbg3301/Pasted image 20251016225213.png",
     "Notes/OST2/Dbg3301/Pasted image 20251016225111.png",
     "Notes/OST2/Dbg3301",
-    "README.md",
     "Security Operations Center/sysmon.md",
     "Security Operations Center/sysinternals.md",
     "Security Operations Center/Splunk.md",
     "Security Operations Center/Security Operations Center.md",
-    "Security Operations Center/osquery.md",
-    "Security Operations Center/Core Windows Processes.md",
-    "Security Operations Center/Brim.md",
-    "Security Operations Center/Zeek/Zeek.md",
-    "Security Operations Center/Yara/Yara.md",
-    "Security Operations Center/Snort/Snort.md",
-    "Security Operations Center/ELK 101/ELK 101.md",
-    "Red Teaming/Windows Internals.md",
-    "Red Teaming/Win32 API.md",
-    "Red Teaming/Signature Evasion.md",
-    "Red Teaming/Red Teaming.md",
-    "Red Teaming/Obfuscation Principles.md",
-    "Red Teaming/Local Persistance.md",
-    "Red Teaming/IDS-IPS.md",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS",
@@ -212,10 +213,8 @@
     "src/site/notes/src/site/notes/src/site/notes/src/site",
     "src/site/notes/src/site/notes/src/site/notes/src",
     "src/site/notes/src/site/notes/src/site/notes",
-    "src/site/notes/src/site/notes/src/site",
     "Notes/OST2/Dbg1011/Pasted image 20250922213228.png",
     "Notes/OST2/Arch2001/Pasted image 20250921164327.png",
-    "Notes/OST2/Arch2001/Pasted image 20250914175348.png",
-    "Notes/OST2/Arch2001/Pasted image 20250919213428.png"
+    "Notes/OST2/Arch2001/Pasted image 20250914175348.png"
   ]
 }
