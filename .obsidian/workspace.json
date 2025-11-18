@@ -11,14 +11,12 @@
             "id": "23658ba14f2fddd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/OST2/Arch2821/Arch2821.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/OST2/Arch2821/Pasted image 20251117230158.png"
               },
-              "icon": "lucide-file",
-              "title": "Arch2821"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251117230158"
             }
           }
         ]
@@ -169,12 +167,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "23658ba14f2fddd5",
+  "active": "f990fc0559f124f0",
   "lastOpenFiles": [
-    "Pasted image 20251117230158.png",
+    "Notes/OST2/Arch2821/Pasted image 20251118232325.png",
+    "Notes/OST2/Arch2821/Arch2821.md",
+    "Notes/OST2/Arch2821/Pasted image 20251117230158.png",
     "Notes/OST2/Arch2821/Pasted image 20251114223341.png",
     "Notes/OST2/Arch2821/Pasted image 20251112224354.png",
-    "Notes/OST2/Arch2821/Arch2821.md",
     "Notes/OST2/Arch2821/Pasted image 20251111212910.png",
     "Notes/OST2/Arch2821/Pasted image 20251111212136.png",
     "Notes/OST2/Arch2821/Pasted image 20251111212730.png",
@@ -201,9 +200,7 @@
     "Notes/OST2/Dbg3301/Pasted image 20251106222841.png",
     "Notes/OST2/Dbg3301/Pasted image 20251103191352.png",
     "Notes/OST2/Dbg3301/Pasted image 20251031194324.png",
-    "Notes/OST2/Dbg3301/Pasted image 20251026223419.png",
     "Notes/ERB Template.md",
-    "Notes/OST2/Dbg3301/Pasted image 20251022194437.png",
     "Notes/OST2/Dbg3301",
     "Security Operations Center/sysmon.md",
     "Security Operations Center/sysinternals.md",
