@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ccfeeee252c8a63",
+        "id": "ed2f321aa70d37a5",
         "type": "tabs",
         "children": [
           {
-            "id": "23658ba14f2fddd5",
+            "id": "b8139fc5f356e6ed",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notes/OST2/Arch2821/Pasted image 20251117230158.png"
+                "file": "Notes/OST2/TC1101/TC1101.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251117230158"
+              "icon": "lucide-file",
+              "title": "TC1101"
             }
           }
         ]
@@ -167,11 +169,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f990fc0559f124f0",
+  "active": "b8139fc5f356e6ed",
   "lastOpenFiles": [
-    "Notes/OST2/Arch2821/Pasted image 20251118232325.png",
     "Notes/OST2/Arch2821/Arch2821.md",
+    "Notes/OST2/TC1101/TC1101.md",
+    "Notes/OST2/TC1101",
     "Notes/OST2/Arch2821/Pasted image 20251117230158.png",
+    "Notes/OST2/Arch2821/Pasted image 20251118232325.png",
     "Notes/OST2/Arch2821/Pasted image 20251114223341.png",
     "Notes/OST2/Arch2821/Pasted image 20251112224354.png",
     "Notes/OST2/Arch2821/Pasted image 20251111212910.png",
@@ -212,7 +216,6 @@
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes",
     "src/site/notes/src/site/notes/src/site/notes/src/site",
-    "src/site/notes/src/site/notes/src/site/notes/src",
-    "src/site/notes/src/site/notes/src/site/notes"
+    "src/site/notes/src/site/notes/src/site/notes/src"
   ]
 }
