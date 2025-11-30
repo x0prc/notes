@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Infosec Projects/Infosec Projects.md",
+                "file": "Notes/OST2/TC1101/TC1101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infosec Projects"
+              "title": "TC1101"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b8139fc5f356e6ed",
+  "active": "f990fc0559f124f0",
   "lastOpenFiles": [
+    "Notes/OST2/TC1101/Pasted image 20251130232115.png",
+    "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/OST2/Classes.md",
     "Notes/URLs-Resources/URLs-Resources.md",
     "Notes/OST2/TC1101/TC1101.md",
@@ -204,12 +206,10 @@
     "OWASP - MASTG/iOS Platform Overview/iOS Platform Overview.md",
     "OWASP - MASTG/Architectures/Stateless Auth.md",
     "OWASP - MASTG/Architectures/Architectures.md",
-    "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/ERB Template.md",
     "Notes/OST2/Dbg3301",
     "Security Operations Center/sysmon.md",
     "Security Operations Center/sysinternals.md",
-    "Security Operations Center/Splunk.md",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting/Recon",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS/Pentesting",
     "src/site/notes/src/site/notes/src/site/notes/src/site/notes/main/CS",
