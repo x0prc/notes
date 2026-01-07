@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03b6ba6f25982b19",
+        "id": "05eddb63c28ae4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "f1f8ea328d03b347",
+            "id": "56b5107f2f404b74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/OST2/Arch4001/Arch4001.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arch4001"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "deb0943eb2b0d347",
@@ -170,14 +165,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "f1f8ea328d03b347",
+  "active": "56b5107f2f404b74",
   "lastOpenFiles": [
+    "Notes/OST2/Arch4001/Arch4001.md",
+    "Notes/OST2/Arch4001/Screenshot 2026-01-07 at 11.33.30 PM.png",
     "Notes/OST2/Arch4001/Pasted image 20260103234235.png",
     "Notes/OST2/Arch4001/Pasted image 20260102232728.png",
     "Notes/OST2/Arch4001/Pasted image 20251225222733.png",
     "Notes/OST2/Arch4001/Pasted image 20251225222326.png",
     "Notes/OST2/Arch4001/Pasted image 20251217234852.png",
-    "Notes/OST2/Arch4001/Arch4001.md",
     "Notes/OST2/Arch4001/Pasted image 20251213224629.png",
     "Notes/OST2/Classes.md",
     "Notes/OST2/Arch4001",
@@ -187,8 +183,6 @@
     "Notes/OST2/TC1101/Pasted image 20251130232115.png",
     "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/URLs-Resources/URLs-Resources.md",
-    "Notes/OST2/TC1101/Pasted image 20251125182548.png",
-    "Notes/OST2/TC1101/Pasted image 20251121231621.png",
     "Notes/OST2/Arch2821/Arch2821.md",
     "Notes/OST2/TC1101",
     "Notes/OST2/Dbg3301/Dbg3301.md",
