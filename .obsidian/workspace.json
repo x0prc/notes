@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05eddb63c28ae4d7",
+        "id": "1c91fb2d6c0b3c4e",
         "type": "tabs",
         "children": [
           {
-            "id": "56b5107f2f404b74",
+            "id": "c9f62b998ca15a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,10 +169,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "f990fc0559f124f0",
+  "active": "c9f62b998ca15a2d",
   "lastOpenFiles": [
-    "Notes/OST2/Arch4001/Screenshot 2026-01-09 at 11.31.58 PM.png",
+    "Thundergate.md",
     "Notes/OST2/Arch4001/Arch4001.md",
+    "Notes/Journals.md",
+    "Notes/OST2/Arch4001/Screenshot 2026-01-09 at 11.31.58 PM.png",
     "Notes/OST2/Arch4001/Screenshot 2026-01-07 at 11.33.30 PM.png",
     "Notes/OST2/Arch4001/Pasted image 20260103234235.png",
     "Notes/OST2/Arch4001/Pasted image 20260102232728.png",
@@ -185,7 +187,6 @@
     "Notes/OST2/TC1101/TC1101.md",
     "Notes/OST2/TC1101/Pasted image 20251211224356.png",
     "Notes/OST2/TC1101/Pasted image 20251207232329.png",
-    "Notes/OST2/TC1101/Pasted image 20251130232115.png",
     "Notes/Infosec Projects/Infosec Projects.md",
     "Notes/URLs-Resources/URLs-Resources.md",
     "Notes/OST2/Arch2821/Arch2821.md",
@@ -196,7 +197,6 @@
     "README.md",
     "Notes/THM Career Pathway.md",
     "Notes/SANS Defensive Training.md",
-    "Notes/Journals.md",
     "OWASP - MASTG/Local Authentication/Local Authentication.md",
     "OWASP - MASTG/iOS Data Storage.md",
     "OWASP - MASTG/Network Communication.md",
